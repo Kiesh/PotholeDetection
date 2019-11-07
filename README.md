@@ -2,7 +2,7 @@
 Classification of Potholes Using Yolov3,Pytorch,Opencv,Python
 
 ----
-This Model is train on 3ok dataset each have 10k Data
+This Model is train on 30k dataset each have 10k Data
 For each class (Low,Medium,High)
 
 *******************
